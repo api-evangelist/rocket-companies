@@ -15,6 +15,12 @@ accessModel:
   method: derived
 image: https://avatars.githubusercontent.com/u/api-evangelist
 tags:
+  - Financial-Services
+  - Mortgage
+  - Real-Estate
+  - Personal Finance
+  - Lending
+tags_raw:
   - Financial Services
   - Mortgage
   - Real Estate
